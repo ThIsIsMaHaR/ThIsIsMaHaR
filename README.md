@@ -1,88 +1,153 @@
-# 💫 About Me:
-Hi 👋, I'm **Abhishek Singh Mahar**, a passionate **Full-Stack Developer** specializing in the **MERN Stack**.
+<h1 align="center">Hi 👋, I'm Abhishek Singh Mahar</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | DevOps Learner</h3>
 
-I build scalable and responsive web applications using **React.js, Node.js, Express.js, and MongoDB**. I enjoy transforming ideas into fully functional products while focusing on clean architecture and modern development practices.
-
-Over the past year, I’ve worked extensively with **Tailwind CSS** to create modern, responsive UI designs. I also have experience deploying applications using **AWS, Vercel, Netlify, and Render**.
-
-Currently, I’m expanding my skills in **DevOps and cloud technologies** while continuously improving my expertise in **JavaScript and full-stack development**.
-
-💡 I enjoy building real-world projects, solving problems, and collaborating on impactful software solutions.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=22F7D5&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Apps;Learning+DevOps+%26+Cloud;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-# 🚀 Projects
+# 🧑‍💻 About Me
 
-### 📚 PageTurner
-A **web novel / ebook platform** where writers can upload novels and readers can track reading progress.
+💡 Passionate **Full-Stack Developer** focused on building scalable and modern web applications.
 
-Features:
-- User Authentication (JWT)
-- Novel & Chapter Management
-- Reading Progress Tracking
-- User Library (Reading / Completed / Plan to Read)
+⚡ Specialized in the **MERN Stack**
+
+🔨 I enjoy turning **ideas into real-world products**
+
+📚 Currently working on  
+➡️ **PageTurner – Web Novel Platform**
+
+🌱 Currently learning  
+➡️ **DevOps • Cloud • System Design**
+
+🎯 Goal  
+➡️ Become a **high-level software engineer**
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 PageTurner
+A **Web Novel & Ebook Platform** where writers publish stories and readers track progress.
+
+### Features
+- JWT Authentication
+- Novel & Chapter Upload System
+- User Reading Library
+- Reading Progress Tracker
 - Ratings & Comments
-- AI Chapter Summarization (Gemini API)
+- AI Chapter Summaries (Gemini API)
 
-Tech Stack: **React, Node.js, Express, MongoDB**
+Tech Stack  
+`React` `Node.js` `Express` `MongoDB`
 
 ---
 
-### 🛒 Cloud Hosted MERN E-commerce Website
-A fully functional **e-commerce platform** with cloud deployment.
+## 🛒 Cloud Hosted MERN E-Commerce Website
 
-Features:
-- User Authentication
-- Product Listings
-- Shopping Cart
+A full **production-ready e-commerce platform**
+
+Features
+- Authentication & Authorization
+- Product Management
+- Cart System
 - Order Processing
-- Admin Panel
-- Payment Gateway Integration
+- Admin Dashboard
+- Payment Integration
 
-Tech Stack: **React, Node.js, Express, MongoDB, AWS**
+Tech Stack  
+`React` `Node.js` `MongoDB` `AWS`
 
 ---
 
-### 💬 Real-Time MERN Chat App
-A real-time messaging application with instant communication.
+## 💬 Real-Time MERN Chat App
 
-Features:
-- Live Messaging
-- Socket.io Integration
-- User Authentication
-- Responsive UI
+A **live messaging platform** using WebSockets.
 
-Tech Stack: **MERN + Socket.io**
+Features
+- Real-time messaging
+- Secure authentication
+- Modern responsive UI
+
+Tech Stack  
+`MERN` `Socket.io`
 
 ---
 
 # 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify)
-
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:your_email">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*

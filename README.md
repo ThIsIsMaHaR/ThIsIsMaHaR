@@ -57,7 +57,7 @@ Features
 - Payment Integration
 
 Tech Stack  
-`React` `Node.js` `MongoDB` 
+`React` `Node.js` `MongoDB` `Express.js`   
 
 ---
 

@@ -35,7 +35,7 @@
 ![Database](https://skillicons.dev/icons?i=mongodb,mysql)
 
 ### Tools & Cloud
-![Tools](https://skillicons.dev/icons?i=git,aws,vercel,netlify,figma)
+![Tools](https://skillicons.dev/icons?i=git,vercel,netlify,render)
 
 ---
 
@@ -67,7 +67,7 @@ Features
 - Admin Dashboard
 
 Tech  
-`React` `Node.js` `MongoDB` `AWS`
+`React` `Node.js` `MongoDB` `Express.js`
 
 ---
 
@@ -139,7 +139,7 @@ Tech
 
 <p align="center">
 
-<a href="https://github.com/YOUR_ThIsIsMaHaR">
+<a href="https://github.com/ThIsIsMaHaR">
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github"/>
 </a>
 

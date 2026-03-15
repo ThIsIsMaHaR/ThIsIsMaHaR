@@ -95,13 +95,6 @@ A scalable **full-stack e-commerce platform**
 
 ---
 
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>

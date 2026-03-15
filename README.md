@@ -67,13 +67,6 @@
 
 ---
 
-## 🐍 Activity Heatmap
-<p align="center">
-<img src="https://raw.githubusercontent.com/ThIsIsMaHaR/ThIsIsMaHaR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00F7FF&height=100&section=footer"/>
 </p>

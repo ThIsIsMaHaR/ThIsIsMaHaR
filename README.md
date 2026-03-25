@@ -43,12 +43,12 @@
 * **Key Tech:** MERN Stack + AI Integration.
 * **Cool Factor:** Real-time reading progress and AI-driven chapter summaries.
 
-### 🛒 **OneCart** | *Next-Gen E-commerce*
+### 🛒 **One-Cart** | *Next-Gen E-commerce*
 * **The Vision:** Scalable online shopping with a seamless admin experience.
 * **Key Tech:** React, Node.js, Cloud Hosting.
 * **Cool Factor:** Advanced dashboard for real-time inventory tracking.
 
-### 💬 **ZapChat** | *Instant Communication*
+### 💬 **Zap-Chat** | *Instant Communication*
 * **The Vision:** Low-latency real-time messaging.
 * **Key Tech:** Socket.io + MERN.
 
